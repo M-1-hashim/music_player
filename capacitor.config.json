@@ -1,0 +1,9 @@
+{
+  "appId": "com.hashem.musicplayer",
+  "appName": "پلیر موزیک",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
