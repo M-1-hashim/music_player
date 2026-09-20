@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">پلیر موزیک</string>
+    <string name="title_activity_main">پلیر موزیک</string>
+    <string name="package_name">com.hashem.musicplayer</string>
+    <string name="custom_url_scheme">com.hashem.musicplayer</string>
+    <string name="audio_player_service_description">اجازه پخش صدا در پس‌زمینه را می‌دهد.</string>
+</resources>
