@@ -9,12 +9,12 @@
     "cap:open": "npx cap open android"
   },
   "dependencies": {
-    "@capacitor/core": "7.4.4",
-    "@capacitor/android": "7.4.4",
+    "@capacitor/core": "6.2.1",
+    "@capacitor/android": "6.2.1",
     "@odion-cloud/capacitor-mediastore": "1.0.21"
   },
   "devDependencies": {
-    "@capacitor/cli": "7.4.4"
+    "@capacitor/cli": "6.2.1"
   },
   "engines": {
     "node": ">=22.0.0"
