@@ -2,19 +2,19 @@
   "name": "music-player",
   "version": "1.0.0",
   "description": "Persian Music Player",
+  "private": true,
   "scripts": {
-    "build": "echo 'Static files ready'",
+    "build": "echo \"Static files ready\"",
     "cap:sync": "npx cap sync android",
     "cap:open": "npx cap open android"
   },
-  "devDependencies": {
-    "@capacitor/cli": "^7.0.0"
-  },
   "dependencies": {
-    "@capacitor/core": "^7.0.0",
-    "@capacitor/android": "^7.0.0",
-    "@odion-cloud/capacitor-mediastore": "^1.0.21",
-    "capacitor-audio-player-demo": "^1.0.23"
+    "@capacitor/core": "7.4.4",
+    "@capacitor/android": "7.4.4",
+    "@odion-cloud/capacitor-mediastore": "1.0.21"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "7.4.4"
   },
   "engines": {
     "node": ">=22.0.0"
